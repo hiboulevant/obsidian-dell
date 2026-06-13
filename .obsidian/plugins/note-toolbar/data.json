@@ -1,0 +1,94 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": null,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": ""
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "new-toolbar-mapping": true,
+    "startup-help-view": true,
+    "startup-help-welcome": true
+  },
+  "ribbonAction": "toolbar",
+  "ribbonToolbar": null,
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": true,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "canvas": false,
+    "image": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "a8b11808-332c-4f16-a39d-135500f209e6",
+      "customClasses": "",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "items": [],
+      "mobileStyles": [],
+      "name": "",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-02-02T19:17:19.773Z"
+    }
+  ],
+  "version": 20260122.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": 1.17,
+  "recentFiles": [
+    "Notes Q/Sans titre 2.md",
+    "Notes Q/Sans titre 3.md",
+    "Notes Q/Sans titre 4.md",
+    "Notes Q/Sans titre 5.md",
+    "Notes Q/Sans titre 6.md",
+    "Centre le Pèlerin/Accompagner.md",
+    "Centre le Pèlerin/Automne 2023.md",
+    "Centre le Pèlerin/Processus Pèlerin.md",
+    "Notes Q/11-06-2025.md",
+    "Sports/S'accroupir.md"
+  ]
+}

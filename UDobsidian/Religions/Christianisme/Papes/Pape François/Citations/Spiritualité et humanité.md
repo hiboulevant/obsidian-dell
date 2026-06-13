@@ -1,0 +1,2 @@
+# Spiritualité et humanité
+Spiritualité et humanité. La spiritualité est la colonne vertébrale de tout service dans l’Église et dans la vie chrétienne. Elle est ce qui nourrit toute notre conduite, la soutient et la protège de la fragilité humaine et des tentations quotidiennes.

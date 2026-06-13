@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "date": "2026-05-05",
+  "deviceId": "f7f7dc8d-993a-468b-a626-a44d45f6f0cc",
+  "updatedAt": "2026-05-05T22:49:14.954Z",
+  "activity": {
+    "words": 0,
+    "characters": 6,
+    "sentences": 0,
+    "pages": 0,
+    "footnotes": 0,
+    "citations": 0
+  },
+  "snapshot": {
+    "totalWords": 0,
+    "totalCharacters": 6,
+    "totalSentences": 0,
+    "totalFootnotes": 0,
+    "totalCitations": 0,
+    "totalPages": 0,
+    "files": 1787
+  }
+}

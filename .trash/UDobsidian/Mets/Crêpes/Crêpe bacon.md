@@ -1,0 +1,2 @@
+# Crêpe bacon
+Préchauffer four avec poêlon à 450, pendant ce temps faire la Pâte à crêpe, réserver, faire cuire bacon dans poêlon qui va au four, verser la pâte à crêpe sur le bacon, faire cuite 25-30 minutes jusqu’à ce que la crêpe gonfle, servir chaud avec sirop d’érable ou mélasse. Si tu veux je peux en faire une le 3 janvier avec le café

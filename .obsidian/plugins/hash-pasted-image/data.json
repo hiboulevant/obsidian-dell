@@ -1,0 +1,5 @@
+{
+  "hashAlgorithm": "sha512",
+  "copyImageFileSupport": true,
+  "notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "bibleVersion": "nbs",
+  "defaultBibleVersion": "nbs",
+  "referenceLinkPosition": "Header",
+  "verseFormatting": "Single Line",
+  "verseNumberFormatting": "1. ",
+  "collapsibleVerses": true,
+  "enableHyperlinking": true,
+  "showVerseTranslation": true,
+  "bookTagging": true,
+  "chapterTagging": true,
+  "enableBibleVerseLookupRibbon": false,
+  "optOutToEvents": false,
+  "bookBacklinking": "Bottom",
+  "chapterBacklinking": "Header",
+  "bibleVersionStatusIndicator": "Short",
+  "displayBibleIconPrefixAtHeader": true,
+  "advancedSettings": true
+}

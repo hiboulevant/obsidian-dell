@@ -1,0 +1,12 @@
+{
+  "targetFolderPath": "/Livres",
+  "fileName": "{{title}}",
+  "goodreadsBaseUrl": "",
+  "goodreadsShelves": "currently-reading",
+  "frontmatterDictionary": {},
+  "bodyString": "# {{title}}\n\nauthor::[[{{author}}]]",
+  "frequency": "0",
+  "overwrite": false,
+  "coverDownload": true,
+  "coverDownloadLocation": "Jointes"
+}

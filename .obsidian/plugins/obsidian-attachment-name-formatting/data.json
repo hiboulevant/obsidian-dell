@@ -1,0 +1,76 @@
+{
+  "connectorOption": "Multiple",
+  "connector": "_",
+  "multipleConnectors": [
+    "_",
+    "_",
+    "_",
+    "_"
+  ],
+  "multipleConnectorsEnabled": [
+    false,
+    true,
+    true,
+    true
+  ],
+  "enableImage": true,
+  "imageExtensions": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "image": "image",
+  "enableAudio": true,
+  "audioExtensions": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "audio": "audio",
+  "enableVideo": true,
+  "videoExtensions": [
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "video": "video",
+  "enablePdf": true,
+  "pdfExtensions": [
+    true
+  ],
+  "pdf": "pdf",
+  "customExtensions": {},
+  "enableCustom": true,
+  "oneInMany": "Default",
+  "enableAuto": true,
+  "enableTime": true,
+  "enablePathHash": true,
+  "enableExcludeFileName": true,
+  "excludedFolders": [],
+  "subfolders": [
+    "image",
+    "audio",
+    "video",
+    "pdf"
+  ],
+  "noteNameSubfolder": true,
+  "noteNameSubfolderFront": true,
+  "exportCurrentRiboon": true,
+  "exportUnusedRiboon": true,
+  "exportCurrentDeletion": true,
+  "exportUnusedDeletion": false,
+  "copyPath": true,
+  "copyPathMode": "Relative",
+  "usingLog": true,
+  "logPath": "Pièces Jointes"
+}

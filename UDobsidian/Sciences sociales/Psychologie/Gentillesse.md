@@ -1,0 +1,9 @@
+---
+feature: Jointes/91b26140447d200af6c7a2990512696890b4ab37f8acf74d1bccaff97db54fee1d059b4d23ee7d2929b7b6c50b9099b93ae815be3675cce51efe0a51aad2a903.png
+thumbnail: thumbnails/resized/c06ae13d37b6117847f8373df987c2e1_86cf658e.webp
+---
+# Gentillesse
+
+#gentillesse #communication #gentillesse/travail 
+
+![[91b26140447d200af6c7a2990512696890b4ab37f8acf74d1bccaff97db54fee1d059b4d23ee7d2929b7b6c50b9099b93ae815be3675cce51efe0a51aad2a903.png]]

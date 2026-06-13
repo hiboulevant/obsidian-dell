@@ -1,0 +1,78 @@
+{
+  "debug": true,
+  "targetPath": ".",
+  "fileFormat": "DD-MM-YYYY",
+  "previewLimits": 5,
+  "previewTags": [],
+  "localGraph": {
+    "notice": "show current note grah view",
+    "type": "popover",
+    "depth": 2,
+    "showTags": true,
+    "showAttach": true,
+    "showNeighbor": true,
+    "collapse": false,
+    "autoColors": false,
+    "resizeStyle": {
+      "width": 550,
+      "height": 500
+    }
+  },
+  "enableGraphColors": true,
+  "colorGroups": [
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 6617700
+      }
+    }
+  ],
+  "enableMetadataUpdating": false,
+  "metadatas": [
+    {
+      "key": "modify",
+      "value": "YYYY-MM-DD HH:mm:ss",
+      "t": "moment"
+    }
+  ],
+  "metadataExcludePath": [],
+  "isEnabledMetadataUpdating": false,
+  "cachePluginRepo": {
+    "personal-assistant": "edonyzpc/personal-assistant"
+  },
+  "cacheThemeRepo": {
+    "Minimal": "kepano/obsidian-minimal"
+  },
+  "statisticsType": "overview",
+  "statsPath": ".obsidian/stats.json",
+  "displaySectionCounts": false,
+  "countComments": false,
+  "animation": true,
+  "aiProvider": "qwen",
+  "apiToken": "sk-xxx",
+  "baseURL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "chatModelName": "qwen-plus",
+  "embeddingModelName": "text-embedding-v4",
+  "embeddingV4MigrationNoticeDismissed": false,
+  "memoryEnabled": true,
+  "memoryAutoCheckBeforeChat": true,
+  "memoryApprovalPolicy": "always",
+  "showAdvancedMemoryControls": false,
+  "modelName": "qwen-plus",
+  "featuredImagePath": "9.src",
+  "numFeaturedImages": 2,
+  "vssCacheExcludePath": [
+    ".obsidian",
+    "8.template",
+    "9.src",
+    "a.subjects",
+    "b.notion"
+  ],
+  "memos": {
+    "resizeStyle": {
+      "width": 550,
+      "height": 500
+    }
+  }
+}

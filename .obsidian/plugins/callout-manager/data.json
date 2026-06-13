@@ -1,0 +1,35 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-book-type"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "83, 223, 221"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

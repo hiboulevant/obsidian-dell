@@ -1,0 +1,8 @@
+{
+  "appendToDailyNote": false,
+  "appendPath": "Les modèles/Trucs.md",
+  "appendTemplate": "\n---\n#### captured [[{{date}}]] at `{{time}}`\n\n{{content}}\n",
+  "dateFormat": "DD-MM-YY",
+  "timeFormat": "HH:mm",
+  "showInStatusBar": true
+}

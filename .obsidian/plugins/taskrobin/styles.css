@@ -1,0 +1,214 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+.taskrobin-explanation {
+	margin-bottom: 2em;
+}
+
+.taskrobin-inputs {
+	display: flex;
+	flex-direction: column;
+	gap: 2em; /* Adds significant spacing between input groups */
+}
+
+.taskrobin-input-group {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5em; /* Adds space between label and input within each group */
+}
+
+.taskrobin-input-group label {
+	display: block;
+	font-weight: 600;
+}
+
+.taskrobin-input-group input {
+	width: 100%;
+	padding: 8px;
+	border-radius: 4px;
+	border: 1px solid var(--background-modifier-border);
+}
+
+.taskrobin-forwarding-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.taskrobin-forwarding-wrapper input {
+	flex: 1;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.taskrobin-domain {
+	background-color: var(--background-secondary);
+	padding: 5px 9px;
+	border: 1px solid var(--background-modifier-border);
+	border-left: none;
+	border-radius: 0 4px 4px 0;
+	color: var(--text-muted);
+}
+
+.taskrobin-help-text {
+	font-size: 0.9em;
+	color: var(--text-muted);
+	margin-top: 0.5em;
+}
+
+.taskrobin-button-container {
+	margin-top: 2em;
+	text-align: right;
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+}
+
+.taskrobin-button-container button:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+}
+
+.taskrobin-error-message {
+	display: none;
+	color: red;
+	font-size: 12px;
+	margin-top: 4px;
+}
+
+.taskrobin-error-message.visible {
+	display: block !important;
+}
+
+.taskrobin-footer {
+	margin-top: 3em;
+}
+
+.mono-text-span {
+	font-family: monospace;
+	background-color: var(--background-secondary);
+	padding: 0 4px;
+	border-radius: 4px;
+}
+
+/* Integration cards styling */
+.taskrobin-integrations-container {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	margin-bottom: 24px;
+}
+
+.taskrobin-integration-card {
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+	padding: 16px;
+	background-color: var(--background-secondary);
+	transition: box-shadow 0.2s ease-in-out;
+}
+
+.taskrobin-integration-card:hover {
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.taskrobin-card-header {
+	padding: 3px;
+	background-color: var(--background-secondary);
+	border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.taskrobin-card-header h3 {
+	margin: 0;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.taskrobin-card-content {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	margin-bottom: 8px;
+}
+
+.taskrobin-card-info-row {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	font-size: 0.9em;
+}
+
+.taskrobin-card-info-row svg {
+	width: 16px;
+	height: 16px;
+	color: var(--text-muted);
+}
+
+.taskrobin-card-actions {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+	margin-top: 12px;
+}
+
+.directory-warning {
+	color: var(--text-error);
+	font-size: 0.85em;
+	margin-top: 4px;
+}
+
+/* Shared email info styling */
+.taskrobin-shared-email-info {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin-bottom: 16px;
+	padding: 8px 12px;
+	background-color: var(--background-secondary);
+	border-radius: 6px;
+	font-size: 0.95em;
+}
+
+.taskrobin-shared-email-info svg {
+	width: 18px;
+	height: 18px;
+	color: var(--text-accent);
+}
+
+/* Email Authentication styling */
+.taskrobin-auth-container {
+	margin-bottom: 20px;
+}
+
+.taskrobin-auth-heading {
+	margin-bottom: 10px;
+	font-size: 0.9em;
+	color: var(--text-muted);
+}
+
+.taskrobin-auth-list {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.taskrobin-auth-item {
+	padding: 10px;
+	background-color: var(--background-secondary);
+	border-radius: 6px;
+	border: 1px solid var(--background-modifier-border);
+}
+
+.taskrobin-auth-email {
+	margin-bottom: 5px;
+}
+
+.taskrobin-auth-token {
+	font-family: var(--font-monospace);
+	font-size: 0.9em;
+	color: var(--text-muted);
+}

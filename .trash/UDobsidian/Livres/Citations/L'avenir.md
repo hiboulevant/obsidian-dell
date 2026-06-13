@@ -1,0 +1,4 @@
+# L'avenir
+#Citations #avenir 
+
+![[d2aa6befeffdcd65bed21ecd2b7bfb0678f6ed080e2d5888eaa14cd5d90437532b9505c0d3ae441859980f4f656017d26a2fb5d8e27f1f922b245572f901a685.png]]

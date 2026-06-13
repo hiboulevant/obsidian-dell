@@ -1,0 +1,13 @@
+---
+tags:
+  - "#Philosophie"
+  - Spiritualité
+---
+# L'homme moderne veut...
+Titre: L’homme moderne veut...
+Document: Traversée en solitaire (p.105)
+
+Texte surligné
+......................................
+L’homme moderne veut s’initier rapidement à la sagesse sans la moindre métanoïa. Il pourra ainsi continuer à aimer l’argent, le profit, la possession des femmes, des hommes, et laisser proliférer ses diverses passions
+......................................

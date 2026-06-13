@@ -1,0 +1,61 @@
+# Immaturité
+
+Immaturité :
+
+1.    **Manque de confiance en soi:** Une femme immature peut montrer un manque de confiance en elle, se manifestant par des doutes fréquents et une faible estime de soi [[3](https://www.la-clinique-e-sante.com/blog/emotions/immaturite-affective-signes-solutions)].
+
+Immaturité émotinnelle :
+
+2.    Elle a de l’empathie
+
+3.    Cordiale
+
+4.     
+
+5.    Difficulté à gérer les conflits
+
+6.    Manque d’autonomie (ne blâme pas les autres)
+
+7.    Difficulté à avoir des relations interpersonnelles
+
+8. **Impulsivité :** Agir sans réfléchir aux conséquences.
+9. Réactions émotionnelles excessives ou incapables de gérer les conflits de manière constructive.
+10. **Manque de persévérance :** Abandonner facilement face aux difficultés.
+11. **Comportements impulsifs :** Prendre des décisions hâtives sans réflexion approfondie.
+12. La difficulté à conduire sa vie peut être liée à divers facteurs psychologiques et émotionnels. Certains signes révélateurs incluent le mal de vivre, l'apathie, le manque d'estime de soi, et la sensation de se sentir coincé mal de vivre s’exprime par une perte du goût de vivre. L’individu qui en souffre perd contact avec ses désirs, ses goûts, ses affinités. Il se sent vidé de son énergie et a l’impression de mener une vie routinière, monotone et solitaire. L’envie de rien, le manque d’appétit, la sensation désagréable de perdre le sens de son existence, tout cela traduit un mal de l’être. Ce dernier consiste en l'existence d'une émotion pénible, dépressive, qui domine le sujet. Ce sentiment d'incapacité et une absence de goût de vivre pouvant, dans les cas les plus graves, conduire au suicide.
+
+---------
+
+À travers ce mal de vivre, certains peuvent tenter de s’anesthésier dans la drogue ou chercher des divertissements extrêmes, car c’est à travers les émotions intenses qu’ils se sentent davantage vivre. Comme ils ne cherchent pas à comprendre que leur mal-être résulte d’une série de besoins non comblés ou de valeurs non actualisées, ils assurent la survivance de divers moyens artificiels, souvent destructeurs, qui leur permettent de masquer temporairement les causes et les symptômes de leur déchéance. **On peut même croire que certaines peuvent aller jusqu’à engendrer, consciemment ou inconsciemment, des relations interpersonnelles toxiques dans lesquelles se complaire pour leur rappeler, dans la souffrance, qu’ils existent bel et bien toujours.** À travers ce mal de vivre, certains peuvent tenter de s’anesthésier dans la drogue ou chercher des divertissements extrêmes, car c’est à travers les émotions intenses qu’ils se sentent davantage vivre. Comme ils ne cherchent pas à comprendre que leur mal-être résulte d’une série de besoins non comblés ou de valeurs non actualisées, ils assurent la survivance de divers moyens artificiels, souvent destructeurs, qui leur permettent de masquer temporairement les causes et les symptômes de leur déchéance. On peut même croire que certaines peuvent aller jusqu’à engendrer, consciemment ou inconsciemment, des relations interpersonnelles toxiques dans lesquelles se complaire pour leur rappeler, dans la souffrance, qu’ils existent bel et bien toujours d’un carcinome de l'utérus
+
+monoparentale dès le début
+
+Père vivant 89 ans
+
+Qualité de la relation :  C’était un scientifique, silencieux, parfois colérique. Actuellement, il souffre de la maladie d’Alzheimer. Relation respectueuse, mais sans confidences.
+
+Mère vivante 82
+
+Une femme qui met beaucoup des barrières. L’accompagnée parle d’un lien fatiguant.
+
+3 sœurs : tous monoparentales. Certaines ont des enfants.
+
+Elle est l’avant dernièere de 4 enfants.
+
+Aucune relation avec l’une des sœurs qui est très contrôlante, bonne relation avec une sœur.
+
+Atmosphère familiale : (relation avec chacun des membres, maladies, dysfonctions, dépendances, etc.)
+
+____________________________________________________________________________________________________________________ Beaucoup de stress et d’injustice, ambiance très sévère. La sœur aînée criait énormément.
+
+**Relations interpersonnelles, amis, réseau social** **:**
+
+____________________________________________________________________________________________________________________ Un petit réseau avec les étudiant-e-s du cours actuel.
+
+Chemins de croissance (accompagnement, retraites, engagements, formation, prière, etc.) :
+
+Les vidéos de Simone Pacot : Évangélisation des profondeurs.
+
+Valeurs Respect, entraide, respect de la différence.
+
+En 2019, sa nièce meurt dans un accident, à l’âge de 35 ans.

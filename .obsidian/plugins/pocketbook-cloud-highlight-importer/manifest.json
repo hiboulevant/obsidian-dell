@@ -1,0 +1,11 @@
+{
+  "id": "pocketbook-cloud-highlight-importer",
+  "name": "Pocketbook Cloud Highlight Importer",
+  "version": "0.1.7",
+  "minAppVersion": "1.1.16",
+  "description": "Imports notes and highlights from your Pocketbook Cloud account.",
+  "author": "Lena Brüder",
+  "authorUrl": "https://github.com/lenalebt",
+  "fundingUrl": "https://www.buymeacoffee.com/lenalebt",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,88 @@
+{
+  "TagColors": {
+    "ColorPicker": [],
+    "EnableMultipleTags": true,
+    "EnableSeparateBackground": false,
+    "EnableSeparateLuminanceOffset": false,
+    "EnableDarkLightDifference": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.2,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "TagsNoWrap": false,
+    "TagsNoWrapText": "pre",
+    "NoteTags": true,
+    "NoteBackgrounds": false,
+    "NoteProperties": true
+  },
+  "FolderNote": {
+    "Enable": true,
+    "FolderTagLinks": [
+      {
+        "tag_name": "Téléphone",
+        "folder_path": "Appareils"
+      },
+      {
+        "tag_name": "Disque",
+        "folder_path": "Appareils"
+      },
+      {
+        "tag_name": "dur",
+        "folder_path": "Appareils"
+      },
+      {
+        "tag_name": "Immigrations",
+        "folder_path": "Langues/Acronyme"
+      },
+      {
+        "tag_name": "Immigrations",
+        "folder_path": "MelinW/Langues/Acronyme"
+      },
+      {
+        "tag_name": "Immigrations",
+        "folder_path": "UDobsidian/Langues/Acronyme"
+      }
+    ],
+    "EnableAutoDetect": true,
+    "Values": {
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px",
+      "BackgroundOpacity": 0.2
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Kanban": {
+    "Enable": true,
+    "EnableCards": true,
+    "EnableLists": true,
+    "HideHashtags": true,
+    "Values": {
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3,
+      "BackgroundOpacity": 0.2
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Canvas": {
+    "Enable": false,
+    "Values": {
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15,
+      "BackgroundOpacity": 0.2
+    },
+    "EnableBackgroundOpacity": false
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}

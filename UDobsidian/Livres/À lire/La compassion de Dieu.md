@@ -1,0 +1,7 @@
+---
+feature: Jointes/La compassion de Dieu/image/fcacc3cd1016035b053f98cfa239261d6ebe3a507228f4a0db76a91fb351186c308f19426515ee8f41e69b528b1440e1d0962339aabd164b0e91cab091f052cd.png
+thumbnail: thumbnails/resized/35e4553c9093d4467363905a7da0fda8_86cf658e.webp
+---
+# La compassion de Dieu
+![[fcacc3cd1016035b053f98cfa239261d6ebe3a507228f4a0db76a91fb351186c308f19426515ee8f41e69b528b1440e1d0962339aabd164b0e91cab091f052cd.png]]
+#compassion #Michel_Fédou 

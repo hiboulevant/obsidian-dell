@@ -1,0 +1,1 @@
+![[Jointes/Grille de discernement- Mouvement Spirituel]]

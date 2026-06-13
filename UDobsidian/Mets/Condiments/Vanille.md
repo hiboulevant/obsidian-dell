@@ -1,0 +1,2 @@
+# Vanille
+Lorsqu'une recette réclame une **gousse de vanille**, on **peut** la **remplacer** par de l'extrait de **vanille** ou du sucre **vanillé**. Grosso modo, on **peut** substituer l'équivalent d'une **gousse** dans une recette par 1/2 à 1 c. à thé d'extrait de **vanille** naturelle ou par 1/2 à 1 c. à soupe de sucre bien **vanillé**.28 juin 2006

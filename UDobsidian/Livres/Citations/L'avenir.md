@@ -1,0 +1,8 @@
+---
+feature: Jointes/ba1c8f5623294e8951af36fea9c65c1c9111102cb17cbd524485da8c0d9cd7a9cd85ba1df4a1c20fe196366de781d7c9d8d246c13a570270285d27c0dd8c1065.png
+thumbnail: thumbnails/resized/c0e9baa0915a29d1e27e0b695c93752c_86cf658e.webp
+---
+# L'avenir
+#Citations #avenir 
+
+![[ba1c8f5623294e8951af36fea9c65c1c9111102cb17cbd524485da8c0d9cd7a9cd85ba1df4a1c20fe196366de781d7c9d8d246c13a570270285d27c0dd8c1065.png]]

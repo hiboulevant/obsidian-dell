@@ -1,0 +1,24 @@
+{
+  "hasWelcomedUser": true,
+  "rootDirectory": "Courriels",
+  "downloadAttachments": true,
+  "syncOnLaunch": true,
+  "integrations": [
+    {
+      "forwardingEmailAlias": "merlinmb",
+      "rootDirectory": "Courriels",
+      "originEmail": "mario.brisson@jesuites.org",
+      "obsidianEmailFolderStructure": "flat_attachments_in_folder"
+    }
+  ],
+  "emailAuths": [
+    {
+      "originEmail": "mario.brisson@jesuites.org",
+      "accessToken": "da6b4bbf-42fe-41cd-b67a-ecdffa0d56ca"
+    }
+  ],
+  "defaultEmailAddress": "mario.brisson@jesuites.org",
+  "emailAddress": "mario.brisson@jesuites.org",
+  "accessToken": "da6b4bbf-42fe-41cd-b67a-ecdffa0d56ca",
+  "forwardingEmailAlias": "merlinmb"
+}

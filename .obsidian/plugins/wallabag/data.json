@@ -1,0 +1,18 @@
+{
+  "serverUrl": "",
+  "tag": "",
+  "folder": "",
+  "downloadAsPDF": "true",
+  "articleTemplate": "",
+  "pdfFolder": "/",
+  "createPDFNote": "true",
+  "convertHtmlToMarkdown": "true",
+  "idInTitle": "true",
+  "archiveAfterSync": "true",
+  "syncOnStartup": "true",
+  "syncArchived": "true",
+  "syncUnRead": "true",
+  "tagFormat": "hashtag",
+  "unreadFolder": "",
+  "archivedFolder": ""
+}

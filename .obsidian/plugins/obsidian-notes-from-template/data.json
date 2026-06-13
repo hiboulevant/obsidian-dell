@@ -1,0 +1,14 @@
+{
+  "outputDirectory": "UDobsidian/output",
+  "templateFilename": "{{title}}",
+  "inputFieldList": "title,body",
+  "textReplacementTemplates": [
+    "[[{{title}}]]"
+  ],
+  "templateDirectory": "UDobsidian",
+  "replaceSelection": "always",
+  "createOpen": "none",
+  "inputSplit": "\\s+-\\s+",
+  "inputSuggestions": true,
+  "config": "[]"
+}

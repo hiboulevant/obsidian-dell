@@ -1,0 +1,5 @@
+# Gentillesse
+
+#gentillesse #communication #gentillesse/travail 
+
+![[f7eedf35211f7b396a80f54ba6b53c613292dee3270e1bee67645c5fc7441a58002e9842516ccdc87ab5b78890fd2357b5fe1b61b219a66411ec8c09f75cd501.png]]

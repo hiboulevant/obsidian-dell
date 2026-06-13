@@ -1,0 +1,36 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ukmy52oiXkm85AtbTcI8Q",
+      "name": "Bleu",
+      "value": "#2d418f"
+    },
+    {
+      "id": "_CyAZ3-fIyhzq6W1q8Chz",
+      "name": "Rouge",
+      "value": "#dc0909"
+    },
+    {
+      "id": "GKHvkF9xQj0Qt7NPHl3GK",
+      "name": "Vert",
+      "value": "#21c452"
+    },
+    {
+      "id": "UUvqu_wYrz4A3WD9NxCD4",
+      "name": "Jaune",
+      "value": "#c2b524"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Bottins/Accompagnateur",
+      "color": "UUvqu_wYrz4A3WD9NxCD4"
+    },
+    {
+      "path": "UDobsidian/Mets/Pains/Pain lentille.md",
+      "color": "UUvqu_wYrz4A3WD9NxCD4"
+    }
+  ]
+}

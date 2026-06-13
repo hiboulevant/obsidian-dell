@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "date": "2026-02-01",
+  "deviceId": "legacy",
+  "updatedAt": "2026-02-01T00:00:00.000Z",
+  "activity": {
+    "words": 37,
+    "characters": 249,
+    "sentences": 0,
+    "pages": 0.2,
+    "footnotes": 0,
+    "citations": 0
+  },
+  "snapshot": {
+    "totalWords": 577641,
+    "totalCharacters": 4601880,
+    "totalSentences": 23431,
+    "totalFootnotes": 14,
+    "totalCitations": 4,
+    "totalPages": 1932.2,
+    "files": 1695
+  }
+}

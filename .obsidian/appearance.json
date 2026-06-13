@@ -1,0 +1,22 @@
+{
+  "baseFontSizeAction": true,
+  "accentColor": "#c18bba",
+  "enabledCssSnippets": [
+    "CustomIcon-AutoGen",
+    "vertical-bar",
+    "Change les titres",
+    "custom-note-background",
+    "CustomIcon-Manual",
+    "inlineAdmonitionsPluginReadOnly",
+    "MCL Multi Column",
+    "Pretty Highlights",
+    "S - Checkboxes",
+    "Setting"
+  ],
+  "nativeMenus": true,
+  "cssTheme": "Everforest Enchanted",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Calibri",
+  "baseFontSize": 15,
+  "showRibbon": true
+}

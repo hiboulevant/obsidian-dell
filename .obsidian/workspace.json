@@ -1,0 +1,633 @@
+{
+  "main": {
+    "id": "5c31397058c034f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c464df26c8996a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdaabcbb3018dfe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a006085330225f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef869be4994d8040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19567f9e5349d9fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "0adc79285c5a3282",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Carnet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "892bf473d009289c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          },
+          {
+            "id": "04f819a16da2e58d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "47e9e0ae369b1afd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "1775e19b791ce8e4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "fb42f4b60dd35c0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "trash-explorer"
+            }
+          },
+          {
+            "id": "744ac2c81a0e2bf6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tagfolder-view"
+            }
+          },
+          {
+            "id": "f72a499a27c9088f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "2ede21b21e5dfdac",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 493.5
+  },
+  "right": {
+    "id": "885c50dca51d1f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f5c220f641a0d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eda32b9b0890cee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UDobsidian/Appareils/Cuisinart.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Cuisinart"
+            }
+          },
+          {
+            "id": "2944480068947f6b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UDobsidian/Appareils/Cuisinart.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Cuisinart"
+            }
+          },
+          {
+            "id": "2a20ef9ce71e7f15",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "1b3af232edbd7c06",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "a441301a59da46c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "ad79c126148cb8e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "649361637b246eec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pw.todo-list"
+            }
+          },
+          {
+            "id": "a68be7c1bd0e4a17",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "e8f3678246f2a7b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "UDobsidian/Informatique/Linux/Unbuntu Pro/Magazine Unbuntu.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier pour Magazine Unbuntu"
+            }
+          },
+          {
+            "id": "06f519e9091fcf75",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "9e829d2001ea09b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pw.todo-list",
+              "state": {},
+              "icon": "check-small",
+              "title": "Todo"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "zk-prefixer:Créer une nouvelle note unique": false,
+      "random-note:Ouvre une note au hasard": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "bookshelf:Open Bookshelf library": false,
+      "bookshelf:Open Bookshelf statistics": false,
+      "callout-manager:Insert Callout": false,
+      "card-note:Search Notes": false,
+      "obsidian-contacts:Contacts": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-google-tasks:Google Tasks": false,
+      "highlight-helper:Copy Marks": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "media-extended:Open media library": false,
+      "media-extended:Open media quick switcher": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "modalforms:Edit forms": false,
+      "obisidian-note-linker:Note Linker": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "personal-assistant:Obsidian Assistant": false,
+      "proletarian-wizard:Open planning": false,
+      "quickadd:QuickAdd": false,
+      "quote-share:Share": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "sticky-notes:Open sticky note": false,
+      "sync-google-calendar:Sync Google Calendar": false,
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false,
+      "tags-overview:Tags overview": false,
+      "task-status:Change Checkbox Status": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-memos:Mémos": false,
+      "obsidian-memos:Thino Super": false,
+      "translate:Open translation view": false,
+      "obsidian-translator:Translate": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "float-search:Search obsidian in modal view": false,
+      "cards-view:Card view": false,
+      "iconic:Ouvrir le livre de règles": false,
+      "booksidian-plugin:Booksidian Sync": false,
+      "notebook-navigator:Navigateur de Carnets": false,
+      "taskrobin:TaskRobin": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "image-notes-photes-io:Generate notes": false,
+      "llm-docs:Create new LLM doc": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "completed-task-display:Task Hider": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f72a499a27c9088f",
+  "lastOpenFiles": [
+    "thumbnails/external/a539d1b80cef38f58a1dabfcbcec90af.failed.png",
+    "UDobsidian/Religions/Christianisme/Papes/Pape François/Du coeur de Jésus.md",
+    "thumbnails/resized/e93f42214bb78417c8386fa3cd42047d_86cf658e.webp",
+    "thumbnails/resized/aad6049d3082167afe01f75446601dba977bd79116cf16921bb90e88ed8771c72001a76f00ae89753e5136e52ff0d6e0d11362e86fd9f78aab45679a6943e36a.webp",
+    "thumbnails/external/2049ae2f4ac589db229e5166a2727fbba5ac674bb179ed8fb2a4eeca0eb543a839f8ca2f7cdf3830e02b34ae6efbca232e6ba52c3e6c08c96d5dff717820b73a.png",
+    "thumbnails/external/20b3f30a3b22a1f39cfdf5b1815343136e077f46a225839ff0b7682c785b684429d1f6426edd208bc1acd08e0ce9ffdb0db0bc24aab4cbe77b90eb9b812f3a19.png",
+    "NotesQ/Acte de confiance.md",
+    "UDobsidian/Informatique/Programmation/Python/Méthode python pour vérifier les chaînes.md",
+    "UDobsidian/Religions/Christianisme/Prière/En attendant l'Esprit Saint.md",
+    "UDobsidian/Informatique/Programmation/Python/La fonction Range avec python.md",
+    "UDobsidian/Personnel/Vêtements/Trucs Vêtemements.md",
+    "UDobsidian/Bottins/BJésuites/Maison Bellarmin/Courriel Mémoire.md",
+    "UDobsidian/Mets/Desserts/Crème glaglacées sans lactose.md",
+    "UDobsidian/Informatique/GitBash/Créer un lanceur d'application dans terminal.md",
+    "thumbnails/resized/ed462fe6d39978d3913a42fa33158cbc_86cf658e.webp",
+    "thumbnails/resized/f88f3c8fe0b74a837958632e4e9b4f045045d3a07c63c07fc104486ac3b394b66b9265afeef253f60016653b5a0da9493cac4fed2f1976e21efb1d90ad864c05.webp",
+    "thumbnails/resized/da6d84377486575e51610aa169df627810da120d8014a7c0e86e27a6293d684d2e7c031ba2c791496d4750d9132c27c549bf4f1c87bc38df725b9e6d5e566ec3.webp",
+    "thumbnails/resized/5414f44301220e38ec3b3a99bf7ecccdaf1670fb67a51ecfe41d266695c1167f68eef81667464e9a87e93896f733fa2ef7d1694d63f4f720b2fe867fc3c0f8cf.webp",
+    "thumbnails/resized/c43c0fc0b3662748a943293f3595ada876246aba08fb3b719c9724afd35d656b5a53159cd525a43b1bb0cedc3d44088d27ecfbbbc41445c1bc4b3a7e42b726f2.webp",
+    "NotesQ/Liste IA.md",
+    "UDobsidian/Religions/Christianisme/Saints/Yvonne-Aimée Malestroi.md",
+    "NotesQ/Rick Van Lier.md",
+    "NotesQ/Rick.md",
+    "UDobsidian/Religions/Christianisme/Saints/Saint Jean-Bosco.md",
+    "UDobsidian/Religions/Christianisme/Saints",
+    "UDobsidian/Sciences sociales/Psychologie/Autogène de Shultz.md",
+    "UDobsidian/Santé/médecine/Remèdes.md",
+    "UDobsidian/Mets/Desserts/Carré chocolat banane.md",
+    "UDobsidian/Centre le Pèlerin/Calendrier 2026-27.md",
+    "UDobsidian/Informatique/Terminal.md",
+    "Jointes/Bloc nationaliste/image",
+    "Jointes/Bloc nationaliste",
+    "media-lib/index.base",
+    "media-lib",
+    "Clippings/Fatigue et sommeil.md",
+    "UDobsidian/Notes Q/National security.md",
+    "UDobsidian/Sciences sociales/Psychologie/Anxiété et émotion.md",
+    "UDobsidian/Mes Accompagnés/Laetitia Crevier emploi.md",
+    "UDobsidian/Mes Accompagnés",
+    "UDobsidian/Santé/médecine/Mes Médecins.md",
+    "UDobsidian/Santé/médecine/Carnet Santé.md",
+    "thumbnails/youtube",
+    "UDobsidian/Informatique/Disques Ubuntu",
+    "UDobsidian/Science pure/Astronomie",
+    "UDobsidian/Informatique/Programmation/Google",
+    "UDobsidian/UDobsidian/Religions/Christianisme/Papes/Pape François/Relations fondamentales.canvas",
+    "UDobsidian/Religions/Christianisme/Papes/Pape François/Relations fondamentales.canvas"
+  ]
+}

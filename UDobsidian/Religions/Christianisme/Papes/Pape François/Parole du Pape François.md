@@ -1,0 +1,23 @@
+# Parole du Pape François
+
+Bonjour à vous,
+
+"Il se peut qu'il ne puisse plus se tenir debout et que la souffrance a façonné son caractère mais ce discours du pape François hier est tout simplement INCROYABLE !"
+"Vous pouvez avoir des défauts, être anxieux et même être en colère, mais n'oubliez pas que votre vie est la plus grande entreprise du monde. Vous seul pouvez l'empêcher d'échouer. Vous êtes apprécié, admiré et aimé par tant de gens. Rappelez-vous qu'être heureux ce n'est pas avoir un ciel sans orage, une route sans accident, un travail sans effort, une relation sans déceptions.
+« Être heureux signifie trouver la force dans le pardon, l'espoir dans les batailles, la sécurité dans la peur, l'amour dans la discorde. Ce n'est pas seulement pour profiter du sourire, mais aussi pour réfléchir à la tristesse. Il ne s'agit pas seulement de célébrer le succès, mais d'apprendre des échecs. Il ne s'agit pas seulement de se sentir heureux avec des applaudissements, c'est d'être heureux en anonyme. Être heureux n'est pas une fatalité du destin, mais un exploit pour ceux qui peuvent voyager en eux-mêmes.
+« Être heureux, c'est arrêter de se sentir victime et devenir l'auteur de son propre destin. " C'est marcher à travers les déserts, mais être capable de trouver une oasis au fond de l'âme. C'est remercier Dieu chaque matin pour le miracle de la vie. Être heureux, c'est ne pas avoir peur de ses sentiments et pouvoir parler de soi. Ayez le courage d'entendre un "non" et de trouver confiance dans la critique, même quand c'est injustifié. C'est embrasser ses enfants, câliner ses parents, passer des moments poétiques avec ses amis, même quand ils nous font du mal.
+« Être heureux, c'est laisser vivre la créature qui vit en chacun de nous, libre, joyeuse et simple. Vous avez la maturité de pouvoir dire : " j'ai fait des erreurs". C'est avoir le courage de dire que je suis désolé. C'est avoir le sens de dire "j'ai besoin de toi". C'est avoir la capacité de dire "je t'aime". Que votre vie devienne un jardin d'opportunités de bonheur... qu'au printemps il soit un amoureux de la joie et en hiver un amoureux de la sagesse.
+"Et quand vous faites une erreur, recommencez à zéro. Parce que seulement alors tu seras amoureux de la vie. Vous découvrirez qu'être heureux ce n'est pas avoir une vie parfaite. Mais utiliser les larmes pour irriguer la tolérance. Utilisez vos défaites pour entraîner votre patience.
+« Utilisez vos erreurs avec la sérénité du sculpteur. Utilisez la douleur pour vous connecter au plaisir. Utilisez les obstacles pour ouvrir les fenêtres de l'intelligence. Ne jamais abandonner... Surtout n'abandonne jamais les gens qui t'aiment. N'abandonnez jamais d'être heureux, car la vie est un spectacle incroyable. ".
+(PAPE FRANCOIS).
+
+Mario Brisson, SJ  
+Accompagnant Psycho Spirituel
+
+172 RUE FLEURY E
+MONTREAL, Québec
+H3L 1E6 
+
+Métro Sauvé    (Nord)
+tél: 514-647-2674
+[mario.brisson@jesuites.org](mailto:mario.brisson@jesuites.org)

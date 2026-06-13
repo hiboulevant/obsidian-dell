@@ -1,0 +1,22 @@
+{
+  "clientId": "598137160029-vgc9f2narq7e7fplivng96n116fn0kuf.apps.googleusercontent.com",
+  "clientSecret": "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",
+  "accessToken": "",
+  "refreshToken": "",
+  "expires": "2025-07-22T20:22:57-04:00",
+  "thumbnailWidth": 400,
+  "thumbnailHeight": 280,
+  "filename": "YYYY-MM-DD[_google-photo_]HHmmss[.jpg]",
+  "thumbnailMarkdown": "[![]({{local_thumbnail_link}})]({{google_photo_url}}) ",
+  "locationOption": "note",
+  "locationFolder": "",
+  "locationSubfolder": "photos",
+  "convertPastedLink": true,
+  "defaultToDailyPhotos": true,
+  "getDateFrom": "Note's title",
+  "getDateFromFrontMatterKey": "date",
+  "getDateFromFormat": "YYYY-MM-DD",
+  "showPhotosInDateRange": false,
+  "showPhotosXDaysPast": 7,
+  "showPhotosXDaysFuture": 1
+}

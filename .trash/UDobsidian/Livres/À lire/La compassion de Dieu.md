@@ -1,0 +1,3 @@
+# La compassion de Dieu
+![[a0a760fdcbcc692fcb746347b440e5418f16315edbe4dfbd79fbde97164ded7006f9b2586f8c6c4076133f17a48d06c72db3400c52e799232d049f482125726a.png]]
+#compassion #Michel_Fédou 

@@ -1,0 +1,6 @@
+{
+  "patterns": "<mark(.*?)>(.*?)</mark>\n==(.*?)==",
+  "header_text": "",
+  "as_list": false,
+  "keep_style": false
+}

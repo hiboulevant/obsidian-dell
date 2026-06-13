@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "RavenHogWarts/obsidian-custom-sidebar-icons"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "RavenHogWarts/obsidian-custom-sidebar-icons",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": false,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": true
+}

@@ -1,0 +1,5 @@
+{
+  "__VERSION__": 2,
+  "release.previous-version": "4.2.0",
+  "note.template.timestamp": "\n{{TIMESTAMP}}\n"
+}

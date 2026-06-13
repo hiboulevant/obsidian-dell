@@ -1,0 +1,7 @@
+{
+  "confirmBeforeEmbed": true,
+  "showFilePath": false,
+  "attachmentFolder": "Jointes",
+  "filenameFormat": "{name}-{timestamp}",
+  "useTimestamp": true
+}

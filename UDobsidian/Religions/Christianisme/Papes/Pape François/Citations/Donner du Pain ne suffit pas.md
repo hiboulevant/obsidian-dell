@@ -1,0 +1,2 @@
+# Donner du Pain ne suffit pas
+ Donner du pain ne suffit pas! Il faut reconnaître et accueillir les demandes de justice, d’espérance, et chercher ensemble des chemins concrets de libération. (Pape François, septembre 2013)

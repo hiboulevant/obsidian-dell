@@ -1,0 +1,20 @@
+{
+  "matches": [
+    {
+      "path": "Example Path/Subfolder/",
+      "classes": [
+        "example-class"
+      ],
+      "scope": "Read"
+    },
+    {
+      "tag": "#ExampleTag",
+      "classes": [
+        "another-class"
+      ],
+      "scope": "Edit"
+    }
+  ],
+  "version": "2.3.0",
+  "usePathGlob": true
+}

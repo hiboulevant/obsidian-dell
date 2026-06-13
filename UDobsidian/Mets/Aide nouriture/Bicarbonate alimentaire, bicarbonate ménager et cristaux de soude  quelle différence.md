@@ -1,0 +1,8 @@
+---
+tags: bicarbonate, Bicarbonate/ménager
+feature: Jointes/62a09635e353f49d8e56e14964d777a6bb3e3b1df6982a95461454d3a2a9676739df493618696083745a435ecc7a6d8c19f645d665ccfe0c726c267484f248dc.jpg
+thumbnail: thumbnails/resized/8ce09049b6eb85e35afb77b6a9260c59_86cf658e.webp
+---
+# Bicarbonate alimentaire, bicarbonate ménager et cristaux de soude  quelle différence
+
+![[62a09635e353f49d8e56e14964d777a6bb3e3b1df6982a95461454d3a2a9676739df493618696083745a435ecc7a6d8c19f645d665ccfe0c726c267484f248dc.jpg]]

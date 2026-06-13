@@ -1,0 +1,30 @@
+{
+	"name": "obsidian-image-transcriber",
+	"version": "1.0.7",
+	"description": "Transcribes text from images using AI.",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"dev": "rollup --config rollup.config.js -w",
+		"build": "rollup --config rollup.config.js --environment BUILD:production"
+	},
+	"keywords": [
+		"obsidian-plugin",
+		"image-transcription",
+		"ai"
+	],
+	"author": "Your Name",
+	"license": "MIT",
+	"devDependencies": {
+		"@rollup/plugin-commonjs": "^25.0.0",
+		"@rollup/plugin-node-resolve": "^15.2.0",
+		"@rollup/plugin-typescript": "^11.1.0",
+		"@types/node": "^20.8.0",
+		"browser-image-compression": "^2.0.2",
+		"heic2any": "^0.0.4",
+		"obsidian": "latest",
+		"rollup": "^3.29.0",
+		"tslib": "^2.6.0",
+		"typescript": "^5.2.0"
+	}
+}

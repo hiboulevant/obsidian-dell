@@ -1,0 +1,31 @@
+# Aliments à découvrir
+
+
+- [ ] Graine de chialer
+- [ ] Gruau
+- [ ] Yogourt sans lactose
+- [ ] Cacao poudre sans sucre
+- [ ] Yogourt de lait de cacao
+- [ ] Son d'avoine
+- [ ] Farine sans gluten
+- [ ] Bluet
+- [ ] Fromage suisse
+- [ ] Tofu soyeux mou
+- [ ] Huile de canola
+- [ ] Flocons d'avoine cuisson rapide
+- [ ] BEURRE d'amande
+- [ ] Beurre d'arachide nature
+- [ ] Milet
+- [ ] Olive noires en conserve
+- [ ] Tacos sans gluten
+- [ ] Riz brun
+- [ ] Chair Courge musqué  (butternut)
+- [ ] Nouille saba
+- [ ] Vinaigre de riz 🍙
+- [ ] Vernicelle de riz 🍙
+- [ ] Huile de sésame
+- [ ] Sauce soya pauvre en sodium
+- [ ] Fécule de mais
+- [ ] Canellonis
+- [ ] Chapelure sans gluten
+- [ ] Linguines sans gluten

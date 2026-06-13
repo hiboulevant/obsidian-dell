@@ -1,0 +1,2 @@
+# Justice et auto-détermination
+Le pape y rappelle notamment le respect de la justice et de l’auto-détermination comme fondements de toute action politique ou toute décision économique : « L’action politique et économique est une activité qui demande de la prudence, guidée par un concept de justice qui ne doit jamais mourir, et ne saurait faire oublier qu’avant tout plan ou programme, il y a de vrais hommes et de vraies femmes qui, comme leurs gouvernants, vivent, luttent et souffrent, et que ceux-ci doivent être les premiers acteurs de leur destin. »

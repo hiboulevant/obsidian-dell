@@ -1,0 +1,2 @@
+# Le curcuma
+Le curcuma a également la réputation de soigner les inflammations et les douleurs articulaires. Cette épice, souvent utilisée dans la médecine traditionnelle, est riche en antioxydant et simple à ajouter à vos plats. Il est important de ne pas dépasser une certaine quantité. On vous conseillera de vous limiter à une cuillère à café par jour.

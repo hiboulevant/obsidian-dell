@@ -1,0 +1,16 @@
+{
+  "docsDir": "LLM",
+  "connections": [
+    {
+      "baseUrl": "https://api.openai.com",
+      "apiKey": "",
+      "type": "OpenAI"
+    }
+  ],
+  "pinnedModels": {},
+  "defaults": {
+    "model": "gpt-4o",
+    "systemPrompt": "",
+    "docOpenMethod": "tab"
+  }
+}

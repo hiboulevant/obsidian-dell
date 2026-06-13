@@ -1,0 +1,12 @@
+{
+  "pinned": [
+    "editor:save-file",
+    "workspace:copy-path",
+    "hotkeysplus-obsidian:clear-current-line",
+    "workspace:export-pdf",
+    "editor:rename-heading",
+    "obsidian-bible-reference:obr-vod-view-verses-of-day",
+    "editor:follow-link",
+    "workspace:split-vertical"
+  ]
+}

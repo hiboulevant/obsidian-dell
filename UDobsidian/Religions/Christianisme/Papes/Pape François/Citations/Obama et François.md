@@ -1,0 +1,2 @@
+# Obama et François
+Parmi les autres sujets, mentionnés dans ses écrits, figurent la protection et l’accueil des immigrés ; la défense de l’environnement, avec un plaidoyer ferme pour une révolution énergétique radicale et la décroissance ; la critique des dictatures de la technologie et de la finance ; la dénonciation des responsabilités des vendeurs d’armes et des grandes puissances dans *«** **la troisième guerre mondiale par morceaux** **»* qu’il dénonce sans cesse.

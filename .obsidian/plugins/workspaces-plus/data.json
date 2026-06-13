@@ -1,0 +1,30 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": true,
+  "globalSettings": {
+    "showRibbon": true,
+    "enabledCssSnippets": [
+      "CustomIcon-AutoGen",
+      "accented-tags",
+      "custom-admonitions.d40901"
+    ],
+    "baseFontSizeAction": true,
+    "cssTheme": "",
+    "accentColor": "",
+    "nativeMenus": true,
+    "spellcheck": true,
+    "defaultViewMode": "source",
+    "livePreview": true,
+    "showLineNumber": true
+  },
+  "activeWorkspaceDesktop": "Écriture",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": true,
+  "workspaceSwitcherRibbon": true,
+  "modeSwitcherRibbon": true,
+  "replaceNativeRibbon": true
+}

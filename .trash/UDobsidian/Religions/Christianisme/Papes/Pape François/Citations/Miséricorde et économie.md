@@ -1,0 +1,2 @@
+# Miséricorde et économie
+« J’ai beaucoup aimé quand il a expliqué que la miséricorde n’était pas un palliatif spirituel, mais 'construction' et 'force' d’une économie de justice. Je crois qu’il est très beau de revaloriser ce style de vie, et la miséricorde prophétique est une nouvelle intuition », souligne Mgr Bregantini.

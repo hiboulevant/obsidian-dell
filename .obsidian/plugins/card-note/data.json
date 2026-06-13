@@ -1,0 +1,15 @@
+{
+  "dragSymbol": "💔",
+  "dragSymbolSize": 18,
+  "defaultFolder": "/Nouvelle note",
+  "columnWidth": 250,
+  "rowHeight": 430,
+  "autoLink": false,
+  "arrowTo": "end",
+  "query": "string",
+  "useRegex": false,
+  "matchCase": false,
+  "showSearchDetail": false,
+  "include": "",
+  "exclude": ""
+}

@@ -1,0 +1,18 @@
+{
+  "attachPath": {
+    "attachmentRoot": "Pièces Jointes",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "Pièces Jointes",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "DDMMYYYYHHssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": false,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

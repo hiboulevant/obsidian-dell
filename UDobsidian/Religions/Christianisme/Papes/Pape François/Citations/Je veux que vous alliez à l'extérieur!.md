@@ -1,0 +1,2 @@
+# Je veux que vous alliez à l'extérieur!
+	 "Je veux que vous alliez à l'extérieur! Je veux que Église sorte dans les rues! Je veux que nous nous gardions de tout ce qui est mondanité, installation, de tout confort, de tout cléricalisme, de toute fermeture sur nous-mêmes. Les paroisses, les écoles, les institutions, sont appelés à sortir! S'ils ne sortent pas, ils deviennent une ONG et Église ne peut pas être une ONG", a demandé le pape aux jeunes Argentins.

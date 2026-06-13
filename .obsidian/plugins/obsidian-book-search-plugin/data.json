@@ -1,0 +1,20 @@
+{
+  "folder": "Livres/Livres",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "Les modèles/Bibi MB.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": true,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "Jointes",
+  "askForLocale": true
+}

@@ -1,0 +1,12 @@
+# Toussaint - Grand Écart
+Toussaint - Grand Écart
+
+#Toussaint #hom élie #Liturgie 
+---
+#### captured [[01-11-25]] at `21:02`
+
+Grand écart ?
+
+Père Olivier Praud
+
+Nul doute qu’en écoutant une nouvelle fois les paroles de Jésus, un subtil vertige saisira les auditeurs. Tout d’abord, par l’écart entre ce qui est annoncé comme bénédiction et ce que le sens commun considère plutôt comme des malédictions. Qui pourrait être heureux d’être pauvre, de pleurer, de lutter pour la justice, de faire miséricorde ? Qui pourrait être heureux d’être persécuté ou calomnié à cause de Jésus ? La conclusion ajoute à ce paradoxe : « Réjouissez-vous, soyez dans l’allégresse, car votre récompense sera grande dans les cieux ! » N’y a-t-il pas un risque de rechercher une sainteté de l’héroïcité, voire de s’enorgueillir d’être les derniers des mohicans dans un monde qui serait hostile à l’Évangile ? Or c’est tout le contraire de la sainteté à laquelle Dieu appelle. Elle est bien plutôt le reflet humain de sa divinité, c’est-à-dire la manière dont une vie humaine est transfigurée par l’amour salutaire de Dieu. La pauvreté du cœur, le service de la paix ou l’exercice de la miséricorde deviennent ainsi les signes visibles d’un cœur qui bat au rythme de l’Esprit Saint. Ensuite, parce que cet écart se dévoile comme celui qui traverse toute existence humaine, entre désirs, réussites ou échecs. Il témoigne en miroir de l’espérance qui habite le cœur de chacun, de mener une vie bonne et de chercher le bien. Cette distance, entre ce que nous espérons et ce que nous vivons, se comprend alors comme un temps de mûrissement et de pédagogie. S’il est vécu dans la foi, il dépasse alors la quête de la perfection morale pour devenir l’apprentissage de notre identité selon le cœur de Dieu : être fils comme le Fils. Enfin, quand Jésus énonce ses béatitudes, il a devant lui des pauvres, des persécutés de son temps, des peureux ou des hésitants, des insultés ou des affamés de tout. Il ne parle pas à l’air ou en surplomb pour faire la leçon. Au contraire, il vient inscrire l’invitation à trouver le bonheur promis par Dieu au milieu des vicissitudes de ce temps. Celui-ci n’est plus pour un demain inatteignable, mais pour aujourd’hui, dans la mesure où nous acceptons de dépendre d’un autre. Le Christ vit lui-même cet écart, non comme séparation ou condamnation à l’échec sans fin, mais comme alliance et communion éternelle avec Dieu.

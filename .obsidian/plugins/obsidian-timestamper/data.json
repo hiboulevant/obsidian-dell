@@ -1,0 +1,6 @@
+{
+  "timeStampFormat": "hh:mm:ss",
+  "dateStampFormat": "YYYY-MM-DD",
+  "lastFormat": "<%* moment.locale(\"de_DE\"); tR += moment().format(\"ddd[, ]DD.MM.YYYY\") %>",
+  "newLine": true
+}

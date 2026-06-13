@@ -1,0 +1,15 @@
+{
+  "communityPlugins": {
+    "enable": false,
+    "default": {
+      "id": "",
+      "icon": "puzzle",
+      "type": "lucide",
+      "color": ""
+    },
+    "data": {}
+  },
+  "customIconLib": {
+    "svg": []
+  }
+}
