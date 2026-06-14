@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5407e3ae7bbcb651",
+        "id": "53af64864672f2a8",
         "type": "tabs",
         "children": [
           {
-            "id": "92a86c23cd62cc70",
+            "id": "a2b35395d0eaee6e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -239,7 +239,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -579,7 +580,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92a86c23cd62cc70",
+  "active": "a2b35395d0eaee6e",
   "lastOpenFiles": [
     "thumbnails/external/a539d1b80cef38f58a1dabfcbcec90af.failed.png",
     "UDobsidian/Religions/Christianisme/Papes/Pape François/Du coeur de Jésus.md",
